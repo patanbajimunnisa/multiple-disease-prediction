@@ -21,8 +21,7 @@ It is developed as a full-stack web application with a user-friendly interface a
 ## 🏥 Diseases Predicted
 - Diabetes Prediction
 - Heart Disease Prediction
-- Parkinson’s Disease Prediction
-- (Add or remove based on your project)
+- Parkinson’s Disease Prediction etc....
 
 ---
 
